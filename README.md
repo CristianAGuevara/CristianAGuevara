@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Cristian Alexander Guevara Rodríguez
 
-🎓 Ingeniero en Sistemas y Computación  
-📍 Armenia, Colombia  
+🎓 Ingeniero de Sistemas y Computación  
+📍 Quindío, Colombia  
 🔗 [LinkedIn](https://www.linkedin.com/in/cristian-alexander-guevara-rodriguez-26b772376)  
 📧 cristianalexanderguevara28@gmail.com  
 
@@ -36,8 +36,8 @@ Desarrollo independiente de apps móviles, con integración de APIs REST, gesti�
 ## 📜 Certificaciones
 
 - ✅ **Principios SOLID y Clean Code** – Udemy  
-- ✅ **AWS Academy Graduate** – Introduction to Cloud  
-- ✅ **SENA** – Illustrator, Modelado 3D, Comunicación efectiva
+- ✅ **AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1** – Amazon Web Services Training and Certification 
+- ✅ **Illustrator, Modelado 3D, Comunicación efectiva** – SENA
 
 ---
 
